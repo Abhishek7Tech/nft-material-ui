@@ -1,0 +1,28 @@
+{
+    "name": "TITANS-HELMET #5",
+    "symbol": "TITANS",
+    "description": "Titans helmet designed for titans.",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "helmet"
+        },
+        {
+            "trait_type": "helmet",
+            "value": "golden"
+        },
+        {
+            "trait_type": "batch",
+            "value": "metal gold"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

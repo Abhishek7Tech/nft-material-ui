@@ -1,0 +1,28 @@
+{
+    "name": "TIGER-CROWN #6",
+    "symbol": "TITANS",
+    "description": "Titans helmet designed for titans.",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "helmet",
+            "value": "white"
+        },
+        {
+            "trait_type": "face",
+            "value": "tiger"
+        },
+        {
+            "trait_type": "cover",
+            "value": "red"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

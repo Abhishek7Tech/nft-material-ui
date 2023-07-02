@@ -1,0 +1,28 @@
+{
+    "name": "DOG-CROWN #8",
+    "symbol": "TITANS",
+    "description": "Titans helmet designed for titans.",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "crown",
+            "value": "gold"
+        },
+        {
+            "trait_type": "diamond",
+            "value": "diamond"
+        },
+        {
+            "trait_type": "face",
+            "value": "dog"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

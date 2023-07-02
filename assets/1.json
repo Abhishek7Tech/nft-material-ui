@@ -1,0 +1,28 @@
+{
+    "name": "TITANS-HELMET #2",
+    "symbol": "TITANS",
+    "description": "Titans helmet designed for titans.",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "helmet"
+        },
+        {
+            "trait_type": "color",
+            "value": "white"
+        },
+        {
+            "trait_type": "badge",
+            "value": "yellow greenish"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+  "program": {
+    "candyMachine": "AMxMa4sCbKHWtip5b1YK5jv9xhq1D7pWdKhojAoKX6Re",
+    "candyGuard": "",
+    "candyMachineCreator": "461E4vGdsQyYYJZUGGGCgNHbWxffEC8c6VgNiqUSxQf7",
+    "collectionMint": "BEqB6kszDSsBki3A2irM1JbnEbZuspwNhcS7gFDwpcwk"
+  },
+  "items": {
+    "-1": {
+      "name": "TITANS-HELMET #1",
+      "image_hash": "12d99340a737581a0d12171001c2fdbaca850166a377c17fc38d6f7996c7bec9",
+      "image_link": "https://arweave.net/DTw5a8t_Q2guAMZ6Jbwk4scoFer61Dat8D8HH1pGHRs?ext=png",
+      "metadata_hash": "dda0e241d87b7e375789f5ce0cc7d6a12a2326ac426d83ad68db8b94576fb43a",
+      "metadata_link": "https://arweave.net/H8CfzQoutvoMZxLoykHH_WByUK-lfJzxaVBrJc7EnLg",
+      "onChain": true
+    },
+    "0": {
+      "name": "TITANS-HELMET #1",
+      "image_hash": "b6b530ff6d863b13ae91a8908296baa144dfb749c021d2f47f6944a3af6460d2",
+      "image_link": "https://arweave.net/BwY6j60Tl3Rl23HWcEKU5X5BgRf-eilWInwIAI0R8l4?ext=png",
+      "metadata_hash": "a3be8e17b959d688a757919e1d11603c844bbfbeed4dbb4ed84988e9f2ecf8e9",
+      "metadata_link": "https://arweave.net/LYi18LwOOIun-JSB4y3UpoFBovoZ2MFveQQ3sH3ZVHs",
+      "onChain": true
+    },
+    "1": {
+      "name": "TITANS-HELMET #2",
+      "image_hash": "f3fd4d431f1f9eacbb1b6fbd7c9da011412795a26a0c0640d00243fe5e91556b",
+      "image_link": "https://arweave.net/0gOujg1DxQy542XtwLEmH0FSYXuptNZGtAIFbPkRcx4?ext=png",
+      "metadata_hash": "c1f3310f962d8efaef96c4429f76331771772db6cd8996e4439350773d60e8dc",
+      "metadata_link": "https://arweave.net/7r3Z3-TqoiKXpfnkQ8DLvEgl9-lNxmLkkcnnBypSzIg",
+      "onChain": true
+    },
+    "2": {
+      "name": "TITANS-HELMET #3",
+      "image_hash": "e0038bc55c8a30b6929e2aac61eae1943e220849a2dbdb6b0da5ce802f41825d",
+      "image_link": "https://arweave.net/ue41busiydUQu5tl2Yq77Pf6ENgpwA3sJfLoue79L-A?ext=png",
+      "metadata_hash": "fa9142df66b852a1281fbaa730a38becd990afb590e31acd7e71ea27c7c6e4b8",
+      "metadata_link": "https://arweave.net/lCqh05QKngMX1o53yiqRtSaOzc_6UZDRISGh7cxUfI0",
+      "onChain": true
+    },
+    "3": {
+      "name": "TITANS-HELMET #4",
+      "image_hash": "c2d98780c1408e1585b4209b50bf9c22034102d8b880fcd4f2d07138cb8881cd",
+      "image_link": "https://arweave.net/aDlAGeB6up58z2cghEU_KKyrlayOLM7nYjH7EKg7C4w?ext=png",
+      "metadata_hash": "595624bb9b82ec62b9d301b0b106e7f944c17e9ac7cd24e625c0ee70c963b0d6",
+      "metadata_link": "https://arweave.net/A41x6FtzkgiVKOiwrH9IFr7sShTbb6en_XbZYIGW5BU",
+      "onChain": true
+    },
+    "4": {
+      "name": "TITANS-HELMET #5",
+      "image_hash": "3710e3d6a0dca2b704ffff27ae5b6ddc8d0837874432cf3e1fdd2de129dd4abc",
+      "image_link": "https://arweave.net/1kK4Ig4oQULlKJFEzlZZUfPdZh4oyJxWPOwuTVz82nU?ext=png",
+      "metadata_hash": "fec3e58772993573a491131d1303607dcfd5d6a5d3c4da4880f907cf3b25c926",
+      "metadata_link": "https://arweave.net/G1R0JDtcIW1Q2UJjaG-HrN04zttnztupfUN9lWFNFoQ",
+      "onChain": true
+    },
+    "5": {
+      "name": "TIGER-CROWN #6",
+      "image_hash": "15d4cf428e15dd4c0759bb8dfb08fe333e3cce86a928e20e58d6529e97dc4a1d",
+      "image_link": "https://arweave.net/Y0kpMhOOE4saFZTBYPW2Tu4qzmfx5uazw60lGHP5OPo?ext=png",
+      "metadata_hash": "c4296a79f5a2b5310e783ae5a92e0a85c86d70290525037f11c1e27e0267c6b2",
+      "metadata_link": "https://arweave.net/EBg8KT4w_39su6vV8a5IIjJWl7psyZcb9mvxslHiYaE",
+      "onChain": true
+    },
+    "6": {
+      "name": "TIGER-CROWN #7",
+      "image_hash": "15c078ad0d4cb3f1833c9453136c0eeb36c1b819be9dfcc33d0fb5c93b4df30d",
+      "image_link": "https://arweave.net/KuUxCj--QOWb2Niyh9oVC-y8RoWRuCyAKVsznWZWxnI?ext=png",
+      "metadata_hash": "601cb1a3e1af6be391d0f078a7a701233bf6e46623dc0bcd2e9a101281f23d25",
+      "metadata_link": "https://arweave.net/dfrlt5tKz120S2vE2XLIwyWRdccKhLfLoiS0Tkr-JzM",
+      "onChain": true
+    },
+    "7": {
+      "name": "DOG-CROWN #8",
+      "image_hash": "40966eeb1af61d6ebf54e8c14d17dff3678be9dfb64621f1bc09f49742db22cd",
+      "image_link": "https://arweave.net/inP-sadHdCB0IHfD436eezQoUw5I-8PStFwWjeAD6-g?ext=png",
+      "metadata_hash": "25ec10120c79d23ff523505d745f031f25a68dfc290723081c5f592bb5cb2b99",
+      "metadata_link": "https://arweave.net/x-6tixLxiHaqxEyH-5R3IYPR1L_wmzCLaUuzTmATWu4",
+      "onChain": true
+    }
+  }
+}

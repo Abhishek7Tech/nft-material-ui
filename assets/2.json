@@ -1,0 +1,28 @@
+{
+    "name": "TITANS-HELMET #3",
+    "symbol": "TITANS",
+    "description": "Titans helmet designed for titans.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "helmet"
+        },
+        {
+            "trait_type": "hair",
+            "value": "cream"
+        },
+        {
+            "trait_type": "badge",
+            "value": "grrenish"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

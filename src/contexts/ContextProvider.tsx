@@ -1,5 +1,6 @@
 import { WalletAdapterNetwork, WalletError } from '@solana/wallet-adapter-base';
 import { ConnectionProvider, WalletProvider } from '@solana/wallet-adapter-react';
+import {BackpackWalletAdapter} from "@solana/wallet-adapter-backpack";
 import { WalletModalProvider as ReactUIWalletModalProvider } from '@solana/wallet-adapter-react-ui';
 import {
     PhantomWalletAdapter,
@@ -31,6 +32,7 @@ const WalletContextProvider: FC<{ children: ReactNode }> = ({ children }) => {
             new SolletWalletAdapter({ network }),
             new SolletExtensionWalletAdapter({ network }),
             new TorusWalletAdapter(),
+            new BackpackWalletAdapter()
             // new LedgerWalletAdapter(),
             // new SlopeWalletAdapter(),
         ],
